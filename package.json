@@ -1,0 +1,19 @@
+{
+  "name": "vpnservicewebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [
+    "vpm website built project"
+  ],
+  "author": "Jubisha",
+  "license": "ISC",
+  "description": "This project is made using tailwing css v4",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.8",
+    "tailwindcss": "^4.1.8"
+  }
+}
